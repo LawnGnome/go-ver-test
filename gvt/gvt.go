@@ -1,5 +1,5 @@
 package gvt
 
 func GVT() string {
-	return "GVT"
+	return "GVT 1"
 }
